@@ -1,0 +1,21 @@
+table {
+    border-collapse : collapse ;
+}
+
+th,td {
+    border : 1px solid black;
+    width : 40px;
+    height : 40px;
+    text-align : center;
+}
+th {
+    background-color : #C94277;
+}
+
+.nbrimpair {
+    background-color: #D26083;
+}
+
+.nbrpair{
+    background-color: #DB80A4;
+}
